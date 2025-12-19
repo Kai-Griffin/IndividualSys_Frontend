@@ -6,8 +6,7 @@ const SelectedHobbies = ({ hobbies, onRemoveHobby }) => {
       {hobbies.length === 0 ? (
         <div className="text-center py-12">
           <div className="text-5xl mb-4">🎯</div>
-          <p className="text-gray-500">No hobbies selected yet</p>
-          <p className="text-gray-400 text-sm mt-2">Add hobbies from the categories to get started</p>
+          <p className="text-gray-500">No hobbies selected</p>
         </div>
       ) : (
         <div className="space-y-4">
