@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "title": "2 Players",
+      "games": [
+        { "id": "chess", "name": "Chess", "icon": "♟️" },
+        { "id": "checkers", "name": "Checkers", "icon": "🔴" },
+        { "id": "cardgames", "name": "Card Games", "icon": "🃏" },
+        { "id": "puzzles", "name": "Puzzles", "icon": "🧩" }
+      ]
+    },
+    {
+      "title": "4 Players",
+      "games": [
+        { "id": "boardgames", "name": "Board Games", "icon": "🎲" },
+        { "id": "teamgames", "name": "Team Games", "icon": "👥" },
+        { "id": "trivia", "name": "Trivia", "icon": "❓" },
+        { "id": "charades", "name": "Charades", "icon": "🎭" }
+      ]
+    },
+    {
+      "title": "6 Players",
+      "games": [
+        { "id": "parties", "name": "Party Games", "icon": "🎉" },
+        { "id": "outdoor", "name": "Outdoor Activities", "icon": "⚽" },
+        { "id": "cooking", "name": "Cooking Challenges", "icon": "🍳" },
+        { "id": "music", "name": "Music Games", "icon": "🎵" }
+      ]
+    }
+  ]
+}
